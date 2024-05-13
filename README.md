@@ -18,7 +18,7 @@ Python / MySQL / Power BI / Bootstrap / Django / Jira / Illustrator / Git / Auto
 ### Nivel de Inglés conversacional: Intermedio / B1.
 
 #### ¿Quien soy?
-Soy un estudiante avanzado de ingeniería electromecánica con más de 4 años como Analista de procesos Jr. especializado en el desarrollo de manuales para la mejora continua de procesos.
+Soy un estudiante avanzado de ingeniería electromecánica con más de 8 años como Analista de procesos Jr. especializado en el desarrollo de manuales para la mejora continua de procesos.
 
 #### ¿Por que yo?
 Conmigo obtendrás, ademas de excelentes habilidades informáticas, un cientifico de datos con una gran capacidad de pensamiento lateral, cooperativo, de mente abierta y ágil, y sobre todo con muchas ganas de aprender de los demás. Además, busco ampliar mis habilidades en estos procesos que requieren optimización y eficiencia.
