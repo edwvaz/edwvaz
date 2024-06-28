@@ -1,6 +1,6 @@
 ![Logo](src/DataScientistBanner.png)
 
-# Hola, soy Edwin, Data Scientist! 👋
+# Hola, soy Edwin, Engineer! 👋
 
 <br>
 
