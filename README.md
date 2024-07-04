@@ -11,7 +11,7 @@
 <br>
 
 ## 🛠 Skills
-●	Paquete Office / Python / MySQL / Power BI / Beautiful Soup / WebDriver / Django / Jira / Git / Bootstrap / Pandas / Numpy / Sklearn / Scipy / Streamlit / Matplotlib / Seaborn / FastApi / AutoCAD / MS Project / Illustrator.
+Python / Django / MySQL / Power BI / Paquete Office / Beautiful Soup / WebDriver / Jira / Git / Bootstrap / Pandas / Numpy / Sklearn / Scipy / Streamlit / Matplotlib / Seaborn / FastApi / AutoCAD / MS Project / Illustrator.
 
 <br>
 
